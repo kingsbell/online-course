@@ -1,0 +1,1 @@
+Mohon maaf kurang maksimal ngerjainnya, karena saya gabisa generate html, gabisa ganti bahasanya ke javascript, dan menggunakan sdk 26.0.1
